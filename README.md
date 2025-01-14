@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Min Lee</h1>
+<h1 align="center">Hello world, I'm Min Lee</h1>
 <h3 align="center">CS @ Georgia Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minovermax&label=Profile%20views&color=0e75b6&style=flat" alt="minovermax" /> </p>
