@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Soungmin (Min) Lee</h1>
-<h3 align="center">CS @ Georgia Tech</h3>
+<h3 align="center">CS @ Georgia Tech (Info Internetworks / Intelligence)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minovermax&label=Profile%20views&color=0e75b6&style=flat" alt="minovermax" /> </p>
 
