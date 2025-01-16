@@ -1,8 +1,6 @@
 <h1 align="center">Hello World, I'm Soungmin (Min) Lee</h1>
 <h3 align="center">CS @ Georgia Tech (Info Internetworks / Intelligence)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minovermax&label=Profile%20views&color=0e75b6&style=flat" alt="minovermax" /> </p>
-
 - 🔭 I’m currently working on **NLP research in financial domains, and an application for US students who don't have cars 🚗**
 
 - 📫 How to reach me **minlee@gatech.edu, or my LinkedIn profile below!**
