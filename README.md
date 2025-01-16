@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minovermax&label=Profile%20views&color=0e75b6&style=flat" alt="minovermax" /> </p>
 
-- 🔭 I’m currently working on **NLP research in financial domains.**
+- 🔭 I’m currently working on **NLP research in financial domains, and an application for US students who don't have cars 🚗**
 
-- 📫 How to reach me **minlee@gatech.edu**
+- 📫 How to reach me **minlee@gatech.edu, or my LinkedIn profile below!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
