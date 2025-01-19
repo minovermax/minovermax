@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NLP research in financial domains, and an application for US students who don't have cars 🚗**
 
-- 📫 How to reach me **minlee@gatech.edu, or my LinkedIn profile below!**
+- 📫 How to reach me: **minlee@gatech.edu, or my LinkedIn profile below!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
