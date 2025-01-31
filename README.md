@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Soungmin (Min) Lee</h1>
-<h3 align="center">CS @ Georgia Tech (Info Internetworks / Intelligence)</h3>
+<h3 align="center">CS @ Georgia Tech (Info-Internetworks / Intelligence)</h3>
 
 - 🔭 I’m currently working on **NLP research in financial domains, and an application for US students who don't have cars 🚗**
 
