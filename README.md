@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on:
   -  **NLP research in financial domains**
   -  **an application for US college students who don't have cars 🚗**
+  -  **a focus tracker that leverages machine learning to check true focus time and prevent distractions.**
 
 - 📫 How to reach me: **minlee@gatech.edu, or my LinkedIn profile below!**
 
