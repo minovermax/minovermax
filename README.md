@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Soungmin (Min) Lee</h1>
 <h3 align="center">CS @ Georgia Tech (Info-Internetworks / Intelligence)</h3>
 
-- 🔭 I’m currently working on **NLP research in financial domains, and an application for US college students who don't have cars 🚗**
+- 🔭 I’m currently working on:
+  -  **NLP research in financial domains**
+  -  **an application for US college students who don't have cars 🚗**
 
 - 📫 How to reach me: **minlee@gatech.edu, or my LinkedIn profile below!**
 
