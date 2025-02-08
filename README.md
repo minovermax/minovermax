@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:
   -  **NLP research in financial domains**
-  -  **SimpliEarn**: an app for investors to understand financial earnings calls leveraging NLP models.
+  -  **SimpliEarn**: an app for investors to easily understand financial earnings calls leveraging NLP models.
   -  **TrashToTreasures**: an app for US college students who don't have cars.
   -  **StampMind**: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
 
