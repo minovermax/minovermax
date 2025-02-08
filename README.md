@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on:
   -  **NLP research in financial domains**
-  -  **an application for US college students who don't have cars 🚗**
+  -  **an application that summarizes financial earnings calls understandable to novice investors through NLP models and an interactive dashboard**
+  -  **an application for US college students who don't have cars**
   -  **a focus tracker that leverages machine learning to check true focus time and prevent distractions.**
 
 - 📫 How to reach me: **minlee@gatech.edu, or my LinkedIn profile below!**
