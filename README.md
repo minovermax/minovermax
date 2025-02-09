@@ -10,6 +10,10 @@
 - 📫 How to reach me: **minlee@gatech.edu**, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
 
 <br>
+<p align="center">
+  <img align="center" media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api/top-langs?username=minovermax&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="minovermax" />
+</p>
+<br>
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
@@ -86,10 +90,4 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="matlab" width="40" height="40"/></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img align="center" media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api/top-langs?username=minovermax&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="minovermax" />
 </p>
