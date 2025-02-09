@@ -1,4 +1,4 @@
-<h1 align="center">Hey, &nbsp I'm Soungmin (Min) Lee</h1>
+<h1 align="center">Hey,&nbsp I'm Soungmin (Min) Lee</h1>
 <h3 align="center">CS @ Georgia Tech (Info-Internetworks / Intelligence)</h3>
 
 - 🔭 I’m currently working on:
