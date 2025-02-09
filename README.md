@@ -13,7 +13,6 @@
 <p align="left">
   <img align="center" media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api/top-langs?username=minovermax&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="minovermax" />
 </p>
-<br>
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
