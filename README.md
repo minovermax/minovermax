@@ -69,7 +69,7 @@
 
 <h3 align="left">Data Visualization:</h3>
 <p align="left">
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354428%2Ftableau-icon&psig=AOvVaw1oDOym4dIDQLXNCZhh3TRi&ust=1739171993922000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDA2tmGtosDFQAAAAAdAAAAABAE" alt="tableau" width="40" height="40"/> </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Devops:</h3>
