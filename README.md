@@ -9,7 +9,6 @@
 
 - 📫 How to reach me: **minlee@gatech.edu**, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
 
-<br>
 <p align="left">
   <img align="center" media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api/top-langs?username=minovermax&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="minovermax" />
 </p>
