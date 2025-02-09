@@ -90,4 +90,4 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minovermax&show_icons=true&locale=en&layout=compact" alt="minovermax" /></p>
+<p align="center"><img align="center" media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api/top-langs?username=minovermax&show_icons=true&locale=en&layout=compact" alt="minovermax" /></p>
