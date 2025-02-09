@@ -9,7 +9,6 @@
 
 - 📫 How to reach me: **minlee@gatech.edu**, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
 
-<br>
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
