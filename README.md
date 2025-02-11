@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on:
   -  **Georgia Tech FinTech Lab VI Project**: NLP research in financial domains (e.g. hawkish/dovish classification with LLMs).
   -  **SimpliEarn**: an app for investors to easily understand financial earnings calls leveraging NLP models.
-  -  **TrashToTreasures**: an app for US college students who don't have cars.
+  -  **TrashToTreasures (ttots)**: an app for US college students who don't have cars.
   -  **StampMind**: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
 
 - 📫 How to reach me: **minlee@gatech.edu**, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
