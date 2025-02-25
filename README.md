@@ -2,7 +2,7 @@
 <h3 align="center">CS @ Georgia Tech (Info-Internetworks / Intelligence)</h3>
 
 - 🔭 I’m currently working on:
-  -  **Georgia Tech FinTech Lab VI Project**: NLP research in financial domains (e.g. hawkish/dovish classification with LLMs).
+  -  **Georgia Tech FinTech Lab**: NLP research in financial domains (e.g. hawkish/dovish classification with LLMs).
   -  **SimpliEarn**: an app for investors to easily understand financial earnings calls leveraging NLP models.
   -  **TrashToTreasures (ttots)**: an app for US college students who don't have cars.
   -  **StampMind**: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
