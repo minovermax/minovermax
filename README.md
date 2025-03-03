@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on:
   -  **Georgia Tech FinTech Lab**: NLP research in financial domains (e.g. hawkish/dovish classification with LLMs).
   -  **SimpliEarn**: an app for investors to easily understand financial earnings calls leveraging NLP models.
+  -  **BuzzBot**: a chatbot to provide accurate information of Georgia Tech (e.g. courses, event schedules, deadlines)
   -  **TrashToTreasures (ttots)**: an app for US college students who don't have cars.
   -  **StampMind**: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
 
