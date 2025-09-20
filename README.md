@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:
   -  **Georgia Tech FinTech Lab**: NLP research in financial domains (e.g. hawkish/dovish classification with LLMs).
-      - <a href="https://gcb-web-bb21b.web.app/" target="blank"><b>NeurIPS Publication</b></a>
+      - <a href="https://gcb-web-bb21b.web.app/" target="blank"><b>NeurIPS 2025 Publication</b></a>
   -  **SimpliEarn**: an app for investors to easily understand financial earnings calls leveraging NLP models.
   -  **BuzzBot**: a chatbot to provide accurate information of Georgia Tech (e.g. courses, event schedules, deadlines)
   -  **TrashToTreasures (ttots)**: an app for US college students who don't have cars.
