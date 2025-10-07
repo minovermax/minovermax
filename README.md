@@ -3,9 +3,9 @@
 
 - 🔭 I’ve worked on:
   -  **Georgia Tech FinTech Lab**: NLP research in financial domains (e.g. hawkish/dovish classification with LLMs).
-      - <a href="https://gcb-web-bb21b.web.app/" target="blank"><b>Words That Unite The World: A Unified Framework for Deciphering Central Bank Communications Globally, NeurIPS 2025</b></a>
+      - <a href="https://gcb-web-bb21b.web.app/" target="blank"><b><small>Words That Unite The World: A Unified Framework for Deciphering Central Bank Communications Globally, NeurIPS 2025</small></b></a>
   - **Code Switching**: research on code switching performance of LLMs
-      - <a href="https://arxiv.org/abs/2509.24613" target="blank"><b>HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition, Submitted to ACL 2025</b></a>
+      - <a href="https://arxiv.org/abs/2509.24613" target="blank"><b><small>HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition, Submitted to ACL 2025</small></b></a>
   -  **SimpliEarn**: an app for investors to easily understand financial earnings calls leveraging NLP models.
   -  **BuzzBot**: a chatbot to provide accurate information of Georgia Tech (e.g. courses, event schedules, deadlines)
   -  **TrashToTreasures (ttots)**: an app for US college students who don't have cars.
