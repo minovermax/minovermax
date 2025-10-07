@@ -1,7 +1,7 @@
 <h1 align="center">Hey,&nbsp I'm Soungmin (Min) Lee</h1>
 <h3 align="center">CS @ Georgia Tech (Info-Internetworks / Intelligence)</h3>
 
-- 🔭 I’ve worked on:
+- I’ve worked on:
   -  **Georgia Tech FinTech Lab**: NLP research in financial domains (e.g. hawkish/dovish classification with LLMs).
       - <a href="https://gcb-web-bb21b.web.app/" target="blank">Words That Unite The World: A Unified Framework for Deciphering Central Bank Communications Globally, NeurIPS 2025</a>
   - **Code Switching**: research on code switching performance of LLMs
@@ -11,7 +11,7 @@
   -  **TrashToTreasures (ttots)**: an app for US college students who don't have cars.
   -  **StampMind**: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
 
-- 📫 How to reach me: **minlee@gatech.edu**, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
+- How to reach me: **minlee@gatech.edu**, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
 
 
 <h4 align="left">Programming Languages:</h4>
