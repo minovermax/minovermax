@@ -6,11 +6,11 @@
       - <a href="https://gcb-web-bb21b.web.app/" target="blank">Words That Unite The World: A Unified Framework for Deciphering Central Bank Communications Globally, NeurIPS 2025</a>
   - **Code Switching**: research on code switching performance of LLMs
       - <a href="https://arxiv.org/abs/2509.24613" target="blank">HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition, Findings of EACL 2026</a>
+  -  <a href="https://www.stampmind.com/" target="blank">**StampMind**</a>: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
   -  **SimpliEarn**: an app for investors to easily understand financial earnings calls leveraging NLP models.
   -  **BuzzBot**: a chatbot to provide accurate information of Georgia Tech (e.g. courses, event schedules, deadlines)
-  -  <a href="https://www.stampmind.com/" target="blank">**StampMind**</a>: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
 
-- How to reach me: **minlee@gatech.edu**, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
+- How to reach me: <a href="mailto:minlee@gatech.edu">**minlee@gatech.edu**</a>, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
 
 
 <h4 align="left">Programming Languages:</h4>
