@@ -8,8 +8,7 @@
       - <a href="https://arxiv.org/abs/2509.24613" target="blank">HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition, Findings of EACL 2026</a>
   -  **SimpliEarn**: an app for investors to easily understand financial earnings calls leveraging NLP models.
   -  **BuzzBot**: a chatbot to provide accurate information of Georgia Tech (e.g. courses, event schedules, deadlines)
-  -  **TrashToTreasures (ttots)**: an app for US college students who don't have cars.
-  -  **StampMind**: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
+  -  <a href="https://www.stampmind.com/" target="blank">**StampMind**</a>: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
 
 - How to reach me: **minlee@gatech.edu**, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
 
