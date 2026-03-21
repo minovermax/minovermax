@@ -4,7 +4,7 @@
 - I’ve worked on:
   -  **Georgia Tech FinTech Lab**: NLP research in financial domains (e.g. hawkish/dovish classification with LLMs).
       - <a href="https://gcb-web-bb21b.web.app/" target="blank">Words That Unite The World: A Unified Framework for Deciphering Central Bank Communications Globally, NeurIPS 2025</a>
-  - **Code Switching**: research on code switching performance of LLMs
+  - **Code Switching**: research on Korean-English code-switching evaluation and multilingual ASR.
       - <a href="https://arxiv.org/abs/2509.24613" target="blank">HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition, Findings of EACL 2026</a>
   -  <a href="https://www.stampmind.com/" target="blank">**StampMind**</a>: a focus tracker that leverages machine learning to check true focus time and prevent distractions.
   -  **SimpliEarn**: an app for investors to easily understand financial earnings calls leveraging NLP models.
