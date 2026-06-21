@@ -11,4 +11,4 @@
   -  <a href="https://www.linkedin.com/posts/vidyut-rajagopal_excited-to-share-an-update-on-the-progress-ugcPost-7322065201057435648-rBjq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoh808Bp1T8Y697vcNduXTsn3zrxi5RbwQ">**SimpliEarn**</a>: an app for investors to easily understand financial earnings calls leveraging NLP models.
   -  **BuzzBot**: a chatbot to provide accurate information of Georgia Tech (e.g. courses, event schedules, deadlines)
 
-- How to reach me: <a href="mailto:minlee@gatech.edu">**minlee@gatech.edu**</a>, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a> !
+- How to reach me: <a href="mailto:minlee@gatech.edu">**minlee@gatech.edu**</a>, or my <a href="https://www.linkedin.com/in/soung-min-lee/" target="blank"><b>LinkedIn</b></a>
