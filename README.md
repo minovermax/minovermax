@@ -1,7 +1,8 @@
 <h1 align="center">Hey,&nbsp I'm Soungmin (Min) Lee</h1>
 <h3 align="center">CS @ Georgia Tech (Info-Internetworks / Intelligence)</h3>
 
-- I’ve worked on:
+- My work ranges from:
+  - <a href="https://www.kitschlabs.com/" target="blank">**Kitsch Labs**</a>: we make AI lovable.
   -  **Georgia Tech FinTech Lab**: NLP research in financial domains (e.g. hawkish/dovish classification with LLMs).
       - <a href="https://gcb-web-bb21b.web.app/" target="blank">Words That Unite The World: A Unified Framework for Deciphering Central Bank Communications Globally, NeurIPS 2025</a>
   - **Code Switching**: research on Korean-English code-switching evaluation and multilingual ASR.
